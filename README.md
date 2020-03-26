@@ -4,6 +4,8 @@
 
 Play is an API that allows a user to query the MusixMatch API and then store results in a database.
 
+![Play API Screenshot](https://user-images.githubusercontent.com/38663414/77660774-a8129880-6f71-11ea-982d-46fa350c3544.png)
+
 ## Initial Setup
 
 - Clone down repo using `git clone git@github.com:johnktravers/play.git`
